@@ -464,6 +464,7 @@ body {
 
     .main {
         background-position-x: 66%;
+        height: 100%;
     }
 
     .main__slider-wrapper {
